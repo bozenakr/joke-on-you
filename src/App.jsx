@@ -1,4 +1,5 @@
 import './App.scss';
+import axios from 'axios';
 
 const dogs = ['šuo', 'šunius', 'Bobikas', 'kudlius', 'Šarikas', 'avigalvis'];
 
